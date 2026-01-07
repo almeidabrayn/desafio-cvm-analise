@@ -14,20 +14,6 @@ Desenvolver um modelo preditivo para identificar os principais fatores que influ
 - **Período analisado**: Janeiro a Junho de 2025
 - **Fundos analisados**: 100 fundos com maior histórico
 
-## 🏗️ Estrutura do Projeto
-Desafio CVM/
-├── src/
-│ └── desafio.cvm.py # Pipeline completo de ETL e modelagem
-├──   dados processados/ # Resultados e visualizações
-│ ├── dados_processados.csv # Dataset com features e target
-│ ├── graficos_*.png # Visualizações da análise
-│ └── importancia_features.csv # Importância das variáveis
-├── Estudos/ # Documentação e relatórios
-├── README.md # Este arquivo
-├── requirements.txt # Dependências do projeto
-├── .gitattributes # Configuração Git LFS - Usado após o arquivo do vídeo passar de 100 MB
-└── .gitignore # Arquivos ignorados pelo Git
-
 ## 🚀 Como Executar
 
 ### Pré-requisitos
