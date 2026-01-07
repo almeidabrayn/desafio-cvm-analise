@@ -1,0 +1,8 @@
+RESUMO DAS PROTEÇÕES:
+Proteção		Objetivo
+Split Temporal		Teste com dados mais recentes
+Target Shift		Usar apenas informações passadas
+Exclusão Target		Evitar usar target como feature
+Imputação Pós-Split 	Estatísticas não vazam
+Ordenação Temporal	Garantir sequência temporal
+Filtro Mínimo		Qualidade da amostra
